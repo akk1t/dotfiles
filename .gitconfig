@@ -1,2 +1,7 @@
-[pull]
-	rebase = false
+[user]
+	name = Taki-i
+	email = ***@gmail.com
+[alias]
+	co = checkout
+	br = branch
+	st = status
