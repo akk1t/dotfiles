@@ -1,7 +1,8 @@
 [user]
-	name = Taki-i
 	email = ***@gmail.com
+	name = akk1t
 [alias]
 	co = checkout
 	br = branch
 	st = status
+	sw = switch
