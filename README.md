@@ -42,6 +42,20 @@ Check the authentication status:
 gh auth status
 ```
 
+Configure your Git user information:
+
+```sh
+git config --global user.name "Your Name"
+git config --global user.email "your-email@example.com"
+```
+
+Check the Git configuration:
+
+```sh
+git config --global user.name
+git config --global user.email
+```
+
 ### 4. Install delta
 
 Install [delta](https://github.com/dandavison/delta):
