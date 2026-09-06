@@ -1,0 +1,16 @@
+# Keybind Settings
+macos-option-as-alt = left
+keybind = shift+enter=text:\x1b\r
+
+# Font Settings
+font-family = 'HackGen Console NF'
+font-size = 14
+font-feature = "-calt"
+font-feature = "-dlig"
+font-feature = "-liga"
+
+# Theme Settings
+theme = Kanagawa Dragon
+
+# TERM
+term = "xterm-256color"

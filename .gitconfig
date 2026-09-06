@@ -1,8 +1,20 @@
-[user]
-	email = ***@gmail.com
-	name = akk1t
 [alias]
-	co = checkout
-	br = branch
-	st = status
-	sw = switch
+    co = checkout
+    br = branch
+    st = status
+    sw = switch
+
+[core]
+    commentChar = ";"
+    pager = delta
+
+[interactive]
+    diffFilter = delta --color-only
+
+[delta]
+    navigate = true
+    side-by-side = true
+    line-numbers = true
+
+[merge]
+    conflictStyle = zdiff3
