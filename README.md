@@ -57,7 +57,7 @@ This setup uses [akk1t/kickstart.nvim](https://github.com/akk1t/kickstart.nvim) 
 Install Neovim and its dependencies:
 
 ```sh
-brew install neovim ripgrep fd tree-sitter
+brew install neovim ripgrep fd tree-sitter-cli
 ```
 
 Clone the configuration:
